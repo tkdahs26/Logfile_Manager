@@ -12,12 +12,12 @@ writeLog메소드	  파일에 타임스탬프와 함께 로그 기록
 readLogs메소드	  파일의 모든 내용을 읽어 반환
 closeLogFile메소드 맵에서 해당 파일을 제거하고 리소스 해제
 
-
+<br><br><br>
 헤더 파일
 Logfile_manager_project.h
-<br><br>
+<br><br><br>
 구현 파일 
 Logfile_manager_project.cpp
-<br><br>
+<br><br><br>
 실행 파일
 Logfile_manager_project_input.cpp
