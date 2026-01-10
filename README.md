@@ -1,10 +1,10 @@
 # Logfile_Manager 
 
 C++ 표준 라이브러리를 활용한 로그 기록 및 관리하는 시스템
-
+<br><br>
  
 Tool: Visual Studio 2022
-
+<br><br>
 
 주요기능
 openLogFile메소드 입력값 파일이 없으면 만들고 map에 등록
@@ -15,9 +15,9 @@ closeLogFile메소드 맵에서 해당 파일을 제거하고 리소스 해제
 
 헤더 파일
 Logfile_manager_project.h
-<br>
+<br><br>
 구현 파일 
 Logfile_manager_project.cpp
-<br>
+<br><br>
 실행 파일
 Logfile_manager_project_input.cpp
