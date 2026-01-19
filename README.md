@@ -25,9 +25,10 @@ Logfile_manager_project_input.cpp
 
 
 <img width="1910" height="749" alt="file1" src="https://github.com/user-attachments/assets/7f8ad478-da6a-4ed8-9f30-faa02ff408c6" /> 실행 화면
+<img width="1910" height="749" alt="file2" src="https://github.com/user-attachments/assets/086f339a-6b12-4087-8b4e-c193c74310f1" /> 1번 make_or_open_File 메소드 실행: 입력값 파일이있으면 메모리에 등록하고 없으면 파일 만드는 함수를 실행합니다
 
-<img width="1910" height="749" alt="file2" src="https://github.com/user-attachments/assets/58dde3a7-621e-4771-9572-8e6e9a397044" />
-<img width="1910" height="749" alt="file3" src="https://github.com/user-attachments/assets/41932ae4-b1ca-41e2-a511-bbd927a7c6fe" />
+
+<img width="1910" height="749" alt="file3" src="https://github.com/user-attachments/assets/41932ae4-b1ca-41e2-a511-bbd927a7c6fe" /> 2
 <img width="1910" height="749" alt="file4" src="https://github.com/user-attachments/assets/7369f5bd-ac66-4c05-a9fd-c066cd6271c1" />
 <img width="1910" height="749" alt="file5" src="https://github.com/user-attachments/assets/3bcf9197-34b3-4f11-b09c-5bfff54418a7" />
 <img width="1910" height="749" alt="file6" src="https://github.com/user-attachments/assets/e28a5879-2fc7-4571-bdb5-9cd749933b8e" />
