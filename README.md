@@ -1,6 +1,6 @@
 # Logfile_Manager 
 
-C++ 표준 라이브러리를 활용한 로그 기록 및 관리하는 시스템
+면접과제 : C++ 표준 라이브러리를 활용한 로그 기록 및 관리하는 시스템
 <br><br>
  
 Tool: Visual Studio 2022
